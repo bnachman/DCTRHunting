@@ -94,7 +94,7 @@ traitlets==4.3.2
 ufw==0.35
 unity-lens-photos==1.0
 urlgrabber==3.9.1
-urllib3==1.25.6
+urllib3==1.25.8
 wcwidth==0.1.7
 Werkzeug==0.14.1
 widgetsnbextension==3.1.4
