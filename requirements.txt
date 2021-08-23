@@ -45,7 +45,7 @@ mock==2.0.0
 mpi4py==3.0.0
 nbconvert==5.3.1
 nbformat==4.4.0
-notebook==5.4.0
+notebook==6.4.1
 numdifftools==0.9.39
 numpy==1.14.2
 nvidia-ml-py==375.53.1
