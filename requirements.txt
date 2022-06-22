@@ -47,7 +47,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.4.0
 numdifftools==0.9.39
-numpy==1.14.2
+numpy==1.22.0
 nvidia-ml-py==375.53.1
 pandocfilters==1.4.2
 pathlib2==2.3.0
